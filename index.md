@@ -18,6 +18,7 @@ As it is only our second semester, my proficiency in programming skills are limi
 # Miscellaneous
 -Carpentry
 -Renovations
+```
 
 
 
