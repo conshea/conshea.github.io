@@ -16,18 +16,15 @@ As it is only our second semester, my proficiency in programming skills are limi
 - Rudimentary Python
 
 # Miscellaneous
--Carpentry
--Renovations
+- Carpentry
+- Renovations
+
 ```
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conshea/flashy-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-Having questions or concerns?  [contact support](https://github.com/conshea) and I will respnd with answers if I can!.
+Having questions or concerns?  [Contact Conor Shea](https://github.com/conshea) and I will respond with answers when I can!.
