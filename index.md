@@ -28,4 +28,4 @@ As it is only our second semester, my proficiency in programming skills are limi
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conshea/flashy-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-Having questions or concerns?  [Contact Conor Shea](https://github.com/conshea) and I will respond with answers when I can!.
+Having questions or concerns?  [Contact Conor Shea](mailto:conshea22@gmail.com) and I will respond with answers when I can!
