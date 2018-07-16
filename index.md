@@ -4,7 +4,7 @@ This will initially be a project for my networking class, but it will continue t
 
 ### Skills
 
-As it is only our second semester, my proficiency in programming skills are limited to:
+As it is only our second semester, my proficiency in programming skills is limited to:
 
 ```markdown
 # Programming Skills
@@ -21,7 +21,6 @@ As it is only our second semester, my proficiency in programming skills are limi
 - Juggling
 
 ```
-
 
 ### Projects
 
