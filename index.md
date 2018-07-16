@@ -1,15 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Conor's First GitHub
+
+This will initially be a project for my networking class, but it will continue to be updated and likely transformed into a virtual display of our school's projects!
 
 You can use the [editor on GitHub](https://github.com/conshea/flashy-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As it is only our second semester, my proficiency in programming skills is limited to:
 
 ```markdown
-Syntax highlighted code block
+# Programming Skills
+- HTML/CSS
+- C# Console Applications
+- C# Form Applications
+- Javascript
+- PHP
+- Rudimentary Python
+
+# Miscellaneous
+-Carpentry
+-Renovations
+
 
 # Header 1
 ## Header 2
@@ -33,5 +46,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conshea/flashy-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or concerns please contact : Conor Shea at: conshea22@gmail.com
