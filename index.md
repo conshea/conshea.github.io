@@ -4,7 +4,7 @@ This will initially be a project for my networking class, but it will continue t
 
 ### Skills
 
-As it is only our second semester, my proficiency in programming skills is limited to:
+As it is only our second semester, my proficiency in programming skills are limited to:
 
 ```markdown
 # Programming Skills
@@ -29,4 +29,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conshea/flashy-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-Having questions or concerns?  [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having questions or concerns?  [contact support](https://github.com/conshea) and I will respnd with answers if I can!.
