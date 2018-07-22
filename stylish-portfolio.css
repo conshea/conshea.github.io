@@ -316,11 +316,11 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: black;
+  color: #000000;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #000000;
 }
 
 .btn-primary {
